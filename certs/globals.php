@@ -1,0 +1,5 @@
+<?php
+$GLOBALS = [
+	'IFP'	=>	'certs',
+];
+?>
