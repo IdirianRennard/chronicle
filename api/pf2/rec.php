@@ -1,4 +1,0 @@
-<?php
-include '../include.php';
-
-?>
